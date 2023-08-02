@@ -2,9 +2,6 @@ import tkinter as tk
 from tkinter import ttk
 from googletrans import Translator, LANGUAGES
 import keyboard
-import pyperclip
-
-
 
 #Словник
 COUNTRY_NAMES = {
